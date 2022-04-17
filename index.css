@@ -2,6 +2,10 @@ body {
     background-color: #000050;
 }
 
+.top-section {
+    margin-top: 5rem;
+}
+
 .b-radius- {
     position: relative;
     background-color: #ffffff;
